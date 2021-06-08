@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://portail:portail@cluster0.whozr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "maysecrettoken"
+}
